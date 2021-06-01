@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
+
+body{
+	background-color:#283D79;
+}
+h1 {
+  	font-family: AppleSDGothicNeo-Regular, 'Malgun Gothic', '맑은 고딕', dotum, '돋움', sans-serif
+}
+
+h1 {
+  font-size: 30px;
+  color:aliceblue;
+  text-align: center; 
+}
+.date{
+	text-align: center;
+	color: burlywood;
+	margin-bottom: 30px;
+	font-size: 25px;
+}
+.Container{
+	padding: 15px;
+	margin: 15px;
+	height: 19vh;
+	text-align: left;
+	background-color: ghostwhite;
+	border-radius: 20px;
+}
+
+.name{
+	background-color: indianred;
+	display: inline-block;
+	font-size: 18px;
+	color: snow;
+	padding: 3px;
+	border-radius: 4px;
+	margin-bottom: 5px;
+}
+.adress{
+	font-size: 18px;
+	margin-bottom: 5px;
+}
+.phone{
+	font-size: 13px;
+	margin: 5px;
+}
+.Tmap, .Cmap{
+	display: inline-block;
+	font-size: 12px;
+	margin: 5px;
+	padding: 10px;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 20px;
+}
+/* 
+@media (max-width: 600px) {
+  h1 {
+    font-size: 20px;
+  }
+} */
