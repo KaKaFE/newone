@@ -12,6 +12,15 @@ h1 {
   color:aliceblue;
   text-align: center; 
 }
+.maplink {
+	display: inline-block;
+}
+a:link {
+	color: red;
+}
+a:visited {
+	color: red;
+}
 .date{
 	text-align: center;
 	color: burlywood;
